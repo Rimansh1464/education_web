@@ -1,16 +1,5 @@
 # web_education
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WhatsApp Image 2022-10-17 at 4 50 09 PM](https://user-images.githubusercontent.com/111416514/196164531-5f258016-a1c9-44da-8c32-d094da06094c.jpeg)
+![WhatsApp Image 2022-10-17 at 4 50 10 PM](https://user-images.githubusercontent.com/111416514/196164537-fce00e74-754c-4139-8aba-319fc13e63d0.jpeg)
